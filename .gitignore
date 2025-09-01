@@ -1,0 +1,8 @@
+# Ignorar bases de datos
+*.csv
+*.pdf
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos temporales de VSCode
+.vscode/

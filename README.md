@@ -73,6 +73,8 @@ Se compararon cuatro modelos usando MAE, RMSE y R² como métricas:
   ...
 ]
 
+
+
 📈 Métrica final del modelo
 
 El modelo de Gradient Boosting alcanzó un R² de 0.579, lo que significa que explica aproximadamente el 58% de la variabilidad en el consumo de combustible. Considerando la naturaleza ruidosa de los datos reales de telemetría, es un resultado robusto y valioso para la toma de decisiones estratégicas.

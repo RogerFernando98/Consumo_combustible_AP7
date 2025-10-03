@@ -14,10 +14,15 @@ Este proyecto tiene como objetivo construir un modelo de regresión para predeci
 
 ## 🧱 Estructura del Proyecto
 ├── datathon.ipynb                  # Notebook principal con todo el flujo de trabajo
+
 ├── datathon.py                    # Versión en script Python (opcional)
+
 ├── modelo_gradient_boosting.pkl   # Modelo entrenado y guardado (pickle)
+
 ├── predicciones_avg_fuel.json     # Predicciones reales vs. predichas
+
 ├── Datathon_definición_reto.pdf   # Descripción del reto original (sin datos sensibles)
+
 └── .gitignore                     # Evita subir archivos innecesarios como .csv
 
 > ❗ Los archivos `.csv` con datos crudos **no están incluidos** por razones de confidencialidad. El proyecto funciona a partir del `df1` ya procesado.
